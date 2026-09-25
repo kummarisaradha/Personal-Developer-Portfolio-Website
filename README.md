@@ -4,7 +4,7 @@ A polished, responsive single-page portfolio for Saradha, built to showcase fron
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![License: MIT](https://img.shields.io/badge/License-MIT-8ac640.svg)](#license)
 
-**Live demo:** [kummarisaradha.github.io/portfolio-website](https://kummarisaradha.github.io/portfolio-website/)
+**Live demo:** (https://kummarisaradha.github.io/Personal-Developer-Portfolio-Website/)
 
 ## Screenshot
 
@@ -60,8 +60,8 @@ portfolio-website/
 **Saradha**
 
 - GitHub: [@kummarisaradha](https://github.com/kummarisaradha)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com)
-- Email: [hello@saradha.dev](mailto:hello@saradha.dev)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/kummari-saradha-a586a4383?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 ## License
 
